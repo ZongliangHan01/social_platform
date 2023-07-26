@@ -18,3 +18,5 @@ npm install axios  --- used for api calls (client side)
 npm install react-router-dom  --- used for routing (client side)
 
 npm install yup --- used for form validation (client side)
+
+using npx to initialize react app creates a github repository automatically, use npm to avoid that. 
