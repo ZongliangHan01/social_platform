@@ -1,0 +1,20 @@
+npm init -- initailise project
+npm install express cors mysql2   --- install express cors mysql2
+npm install nodemon   --- auto restart server
+
+inside package.json
+scripts: {
+    ""start": "nodemon server.js"
+}
+
+npm start   --- start server
+
+npm install -g sequelize sequelize-cli   --- used for database migration  -g means global
+
+
+npm install cors  --- used for cross origin resource sharing (server side)
+npm install axios  --- used for api calls (client side)
+
+npm install react-router-dom  --- used for routing (client side)
+
+npm install yup --- used for form validation (client side)
